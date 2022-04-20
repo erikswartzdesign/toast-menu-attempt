@@ -1,0 +1,14 @@
+.button {
+    font-size: 20px;
+    color: aliceblue;
+    padding: 1vh 3vw;
+    background-color: blue;
+}
+
+.button a:visited {
+    color: aliceblue;
+}
+
+.button-active {
+    background-color: blueviolet;
+}
